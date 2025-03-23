@@ -1,5 +1,5 @@
 # MAT-ATTACK
-MAT-METHOD (ICME 2025 已接受！)
+MAT-METHOD ( ICME 2025 已接受！)
 
 
 【Boosting Adversarial Transferability By Constructing Adversarial Trajectories】 
